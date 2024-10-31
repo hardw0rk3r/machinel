@@ -1,6 +1,6 @@
 # [WWITS] Machine Learning final project
 
-This is the final project in Wildau Welcome IT School. Author - Mykyta Bobkov
+This is the final project in Wildau Welcome IT School.
 
 ## Introduction
 
